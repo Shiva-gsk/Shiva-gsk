@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shiva-gsk
-- 👀 I’m interested in Technology & Art
+- 👀 I’m interested in Technology: AI, Inference Engineering and Low level Systems.
 - 🌱 I’m currently learning a lot of cool stuff regarding Computer science at NIT Calicut
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 You can contact me through my mail : shivagulapala2005@gmail.com
